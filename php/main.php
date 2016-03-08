@@ -3,6 +3,9 @@ $x = -3;
 $x *= 3;
 $x = -$x;
 echo $x++;
-function($num){
+function number($num){
   echo $num;
 }
+echo number(1488);
+$var = 1;
+$var2 += $var;
